@@ -11,7 +11,7 @@ Home dir: <br>
 ```cd ~/```
 
 Clone repo to your home dir: <br>
-```git clone https://github.com/NotTK/Oneclick```
+```git clone https://github.com/MassCreator/OneClickDiagnostic```
 
 Moving Oneclick.blade.php to correct dir: <br>
 ```mv Oneclick/Oneclick.blade.php resources/views/device/tabs/```
